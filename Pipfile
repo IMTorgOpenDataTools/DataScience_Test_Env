@@ -9,6 +9,8 @@ numpy = "*"
 pytest = "*"
 setuptools = "*"
 wheel = "*"
+sqlalchemy = "*"
+bluesearch = "*"
 
 [dev-packages]
 

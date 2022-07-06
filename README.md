@@ -1,4 +1,4 @@
-# Test NLP Environment
+# Test Data Science Environment
 
 Running the tests in this repo will provide an understanding of the capabilities of the current environment, with specific regards to GPU device.
 
